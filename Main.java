@@ -10,7 +10,7 @@ public class Main {
     public static void main (String[] arg)
     {
         Lib lib = new Lib();
-        String[] au = {"Erca","Issa","Raul"};
+        String[] au = {"Ercan","Issa","Raul"};
         String[] an = {"Paul",};
         Book book1 = new Book("Alps History", au, 1);
         Book book2 = new Book( "Horizontal Motion", au, 3);
